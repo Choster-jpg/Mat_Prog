@@ -1,0 +1,23 @@
+﻿Сборка начата 05.05.2021 13:52:26.
+Уровень детализации журнала: Normal.     1>Проект "D:\Нада\Мат прога за мат сори\Lab_5\MP_lab_5\MP_lab_5\MP_lab_5.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\MP_lab_5.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc142.pdb" /Gd /TP /FC /errorReport:prompt BFS.cpp
+         BFS.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Нада\Мат прога за мат сори\Lab_5\MP_lab_5\x64\Debug\MP_lab_5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\Нада\Мат прога за мат сори\Lab_5\MP_lab_5\x64\Debug\MP_lab_5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Нада\Мат прога за мат сори\Lab_5\MP_lab_5\x64\Debug\MP_lab_5.lib" /MACHINE:X64 x64\Debug\BFS.obj
+         x64\Debug\DFS.obj
+         x64\Debug\Graph.obj
+         x64\Debug\Source.obj
+         MP_lab_5.vcxproj -> D:\Нада\Мат прога за мат сори\Lab_5\MP_lab_5\x64\Debug\MP_lab_5.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\MP_lab_5.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\MP_lab_5.tlog\MP_lab_5.lastbuildstate".
+     1>Сборка проекта "D:\Нада\Мат прога за мат сори\Lab_5\MP_lab_5\MP_lab_5\MP_lab_5.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.03
